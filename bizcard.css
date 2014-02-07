@@ -1,0 +1,19 @@
+body {
+		font-size:20px;
+		font-family: Arial,Helvetica,sans-serif;
+		background-color:lightgrey;
+	}
+		.headlines {
+			color:darkblue;
+			text-align:center;
+		}
+		#my_pic {
+			border:5px solid black;
+			margin:12px; float: left;
+			width:180px; height:180px;
+		}
+		.headlines2 {
+			color:darkblue;
+			text-align:left;
+		}
+		
