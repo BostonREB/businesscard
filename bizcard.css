@@ -8,12 +8,28 @@ body {
 			text-align:center;
 		}
 		#my_pic {
-			border:5px solid black;
-			margin:12px; float: left;
+			border:3px solid black;
+			margin:8px; float:left;
 			width:180px; height:180px;
 		}
 		.headlines2 {
 			color:darkblue;
 			text-align:left;
+		}
+		#connections ul {
+			margin:0;
+			padding:0;
+			list-style-type:none
+		}
+		#connections ul li a {
+			text-decoration:none;
+		}
+
+		.icons {
+			margin:5px;
+			width:35px; height:35px;
+		}
+		#Contacts {
+			list-style-type:none;
 		}
 		
